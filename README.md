@@ -37,14 +37,6 @@
 
 ---
 
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andersonxtrindade&theme=radical" alt="Anderson's contribution graph"/>
-</div>
-
----
-
 ### 😄 Vamos conversar?
 
 - 📬 axtrindade2012@gmail.com  
