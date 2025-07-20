@@ -15,15 +15,6 @@
 
 ---
 
-### ⚙️ GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonxtrindade&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonxtrindade&layout=compact&langs_count=5&theme=radical"/>
-</div>
-
----
-
 ### 🛠️ Tecnologias que uso
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js)
